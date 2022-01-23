@@ -79,4 +79,4 @@ client.user.setGame(`Send Me Linke Your Server | RaWeN Up`)
 
 
 
-client.login("");///FiiX ///Token
+client.login("OTMwODQzNDI0MDI0ODM0MTE4.Yd7xfg.NkdOdpV18UuRWCSqOCZ57PLcVJc");///FiiX ///Token
